@@ -45,6 +45,13 @@ getgenv().FakeMacro = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Kit%20tools.txt"))()
 end)
 
+tab1:CreateButton("سكربت سبام شات مو من قبلي", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/sVL08Jgg'),true))()
+end)
+
+
+
+
 tab1:CreateWarning("تحذير ⚠️")
 
 tab1:CreateWarning("اذا تسبب لك باند احنا غير مسؤولين⚠️")
