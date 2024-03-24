@@ -54,7 +54,15 @@ tab1:CreateButton("سكربت انتي لوك مو من قبلي", function()
 loadstring(game:HttpGet'http://kirbsware.xyz/r/Mobile.lua')()
 end)
 
-tab1:CreateLabel("Label")
+local tab1 = window:CreateTab("التحديثات")
+
+tab1:CreateLabel("تم اضافه ماكرو كذبي")
+
+tab1:CreateLabel("تم اضافه انتي لوك")
+
+tab1:CreateInfo("Info")
+
+tab1:CreateWarning("القادم افضل")
 
 
 tab1:CreateWarning("تحذير ⚠️")
