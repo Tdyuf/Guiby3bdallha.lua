@@ -50,6 +50,9 @@ loadstring(game:HttpGet(('https://pastebin.com/raw/sVL08Jgg'),true))()
 end)
 
 
+tab1:CreateButton("سكربت انتي لوك مو من قبلي", function()
+loadstring(game:HttpGet'http://kirbsware.xyz/r/Mobile.lua')()
+end)
 
 
 tab1:CreateWarning("تحذير ⚠️")
