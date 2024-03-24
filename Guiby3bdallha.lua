@@ -54,7 +54,7 @@ tab1:CreateButton("سكربت انتي لوك مو من قبلي", function()
 loadstring(game:HttpGet'http://kirbsware.xyz/r/Mobile.lua')()
 end)
 
-
+local tab1 = window:CreateTab("da hod")
 
 
 tab1:CreateWarning("تحذير ⚠️")
