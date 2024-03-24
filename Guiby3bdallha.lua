@@ -69,5 +69,4 @@ tab1:CreateLabel("تم اضافه سبام شات سكربت")
 
 tab1:CreateLabel("تم اضافه انتي لوك سكربت")
 
-
 tab1:CreateWarning("القادم افضل")
