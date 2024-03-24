@@ -60,6 +60,7 @@ tab1:CreateWarning("تحذير ⚠️")
 
 tab1:CreateWarning("اذا تسبب لك باند احنا غير مسؤولين⚠️")
 
+
 local tab1 = window:CreateTab("تحديثات")
 
 tab1:CreateLabel("تم اضافه ماكرو كذبي سكربت")
@@ -68,6 +69,5 @@ tab1:CreateLabel("تم اضافه سبام شات سكربت")
 
 tab1:CreateLabel("تم اضافه انتي لوك سكربت")
 
-tab1:CreateInfo("Info")
 
 tab1:CreateWarning("القادم افضل")
